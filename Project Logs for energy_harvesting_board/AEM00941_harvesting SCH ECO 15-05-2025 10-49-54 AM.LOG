@@ -1,0 +1,38 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAPC0805(2012)145_L New Footprint=CAPC0603(1608)100_L
+Change Component Footprint: Designator=C1 Old Footprint=CAPC1608X94X35NL15T15 New Footprint=CAPC0603(1608)100_L
+Change Component Footprint: Designator=C2 Old Footprint=CAPC1608X94X35NL15T15 New Footprint=CAPC0603(1608)100_L
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608X94X35NL15T15 New Footprint=CAPC0603(1608)100_L
+Change Component Footprint: Designator=L1 Old Footprint=INDM125125X600N New Footprint=FP-LPS4018-MFG
+Change Component Footprint: Designator=R12 Old Footprint=RESC1005X40X25ML05T10 New Footprint=RESC1608X55X25ML10T15
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608X55X25ML10T15 New Footprint=FP-PV36W-MFG
+Change Component Footprint: Designator=R2 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25ML05T10
+Change Component Footprint: Designator=R3 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25ML05T10
+Change Component Footprint: Designator=R4 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25ML05T10
+Change Component Footprint: Designator=R5 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25ML05T10
+Change Component Footprint: Designator=R8 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25ML05T10
+Change Component Comment: Designator=U? Old Comment=AEM00941 New Comment=AEM00940
+Change Component Comment: Designator=C1 Old Comment=Capacitor 1 uF +/- 10% 16 V 0603 New Comment=Capacitor 10µF +/-20% 10V 0603
+Change Component Comment: Designator=C2 Old Comment=Capacitor 1 uF +/- 10% 16 V 0603 New Comment=Capacitor 10µF +/-20% 10V 0603
+Change Component Comment: Designator=C3 Old Comment=Capacitor 1 uF +/- 10% 16 V 0603 New Comment=Capacitor 10µF +/-20% 10V 0603
+Change Component Comment: Designator=C4 Old Comment=Capacitor 100µF +/-20% 6.3V 0805 New Comment=Capacitor 10µF +/-20% 10V 0603
+Change Component Comment: Designator=R12 Old Comment=Resistor 0R 0402 63 mW New Comment=Resistor 0R +/- 5% 0603 100 mW
+Change Component Comment: Designator=R1 Old Comment=Resistor 0R +/- 5% 0603 100 mW New Comment=100k POT
+Change Component Comment: Designator=R2 Old Comment=Resistor 0R +/- 5% 0603 100 mW New Comment=Resistor 0R 0402 63 mW
+Change Component Comment: Designator=R3 Old Comment=Resistor 0R +/- 5% 0603 100 mW New Comment=Resistor 0R 0402 63 mW
+Change Component Comment: Designator=R4 Old Comment=Resistor 0R +/- 5% 0603 100 mW New Comment=Resistor 0R 0402 63 mW
+Change Component Comment: Designator=R5 Old Comment=Resistor 0R +/- 5% 0603 100 mW New Comment=Resistor 0R 0402 63 mW
+Change Component Comment: Designator=R8 Old Comment=Resistor 0R +/- 5% 0603 100 mW New Comment=Resistor 0R 0402 63 mW
+Change Component Designator: OldDesignator=BT? NewDesignator=BT1
+Change Component Designator: OldDesignator=BT? NewDesignator=BT2
+Change Component Designator: OldDesignator=BT? NewDesignator=BT3
+Change Component Designator: OldDesignator=BT? NewDesignator=BT4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Pin Designator/Name:  Old Designator=C4-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R1-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R6-2 Old Name=2 New Designator =1 New Name=1

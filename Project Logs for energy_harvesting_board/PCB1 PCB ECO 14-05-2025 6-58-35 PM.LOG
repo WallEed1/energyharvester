@@ -1,0 +1,97 @@
+Removed Member From Class: ClassName=AEM00941_harvesting Member=R15
+Removed Member From Class: ClassName=AEM00941_harvesting Member=R16
+Change Component Designator: OldDesignator=C8 NewDesignator=C2
+Change Component Designator: OldDesignator=C9 NewDesignator=C3
+Change Component Designator: OldDesignator=C10 NewDesignator=C4
+Change Component Designator: OldDesignator=C11 NewDesignator=C5
+Change Component Designator: OldDesignator=C12 NewDesignator=C6
+Change Component Designator: OldDesignator=C13 NewDesignator=C7
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=L3 NewDesignator=L2
+Change Component Designator: OldDesignator=R2 NewDesignator=R6
+Change Component Designator: OldDesignator=R3 NewDesignator=R7
+Change Component Designator: OldDesignator=R15 NewDesignator=R2
+Change Component Designator: OldDesignator=R16 NewDesignator=R3
+Change Component Designator: OldDesignator=R17 NewDesignator=R4
+Change Component Designator: OldDesignator=R18 NewDesignator=R5
+Change Component Designator: OldDesignator=R19 NewDesignator=R12
+Change Component Designator: OldDesignator=R21 NewDesignator=R8
+Change Component Designator: OldDesignator=R22 NewDesignator=R9
+Change Component Designator: OldDesignator=R23 NewDesignator=R10
+Change Component Designator: OldDesignator=R24 NewDesignator=R11
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW1
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Added Component: Designator=BT1(SOLAR_KXOB25-14X1F-TR)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KXOB25-14X1F-TR/Sola/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ANYSOLAR Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KXOB25-14X1F-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KXOB25-14X1F-TR/Sola/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BT2(SOLAR_KXOB25-14X1F-TR)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KXOB25-14X1F-TR/Sola/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ANYSOLAR Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KXOB25-14X1F-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KXOB25-14X1F-TR/Sola/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BT3(SOLAR_KXOB25-14X1F-TR)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KXOB25-14X1F-TR/Sola/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ANYSOLAR Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KXOB25-14X1F-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KXOB25-14X1F-TR/Sola/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BT4(SOLAR_KXOB25-14X1F-TR)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KXOB25-14X1F-TR/Sola/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ANYSOLAR Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KXOB25-14X1F-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KXOB25-14X1F-TR/Sola/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(FP-LPS4018-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "360mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "22uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "830mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "26MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "LPS4018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.003527oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_IN Pin=BT1-P
+Added Pin To Net: NetName=V_IN Pin=BT2-P
+Added Pin To Net: NetName=GND Pin=BT3-N
+Added Pin To Net: NetName=GND Pin=BT4-N
+Added Pin To Net: NetName=NetC1_1 Pin=L1-2
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetL3_1 New Net Name=NetL2_1
+Added Pin To Net: NetName=NetBT1_N Pin=BT1-N
+Added Pin To Net: NetName=NetBT1_N Pin=BT3-P
+Added Pin To Net: NetName=NetBT1_N Pin=SW1-6
+Added Net: Name=NetBT1_N
+Added Pin To Net: NetName=NetBT2_N Pin=BT2-N
+Added Pin To Net: NetName=NetBT2_N Pin=BT4-P
+Added Pin To Net: NetName=NetBT2_N Pin=SW1-5
+Added Net: Name=NetBT2_N
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-28
+Added Net: Name=NetL1_1
+Added Member To Class: ClassName=AEM00941_harvesting Member=Component BT1 KXOB25-05X3F-TR
+Added Member To Class: ClassName=AEM00941_harvesting Member=Component BT2 KXOB25-05X3F-TR
+Added Member To Class: ClassName=AEM00941_harvesting Member=Component BT3 KXOB25-05X3F-TR
+Added Member To Class: ClassName=AEM00941_harvesting Member=Component BT4 KXOB25-05X3F-TR
+Added Member To Class: ClassName=AEM00941_harvesting Member=Component L1 22uH
+Added Member To Class: ClassName=AEM00941_harvesting Member=Component R6 Resistor 0R +/- 5% 0603 100 mW
+Added Member To Class: ClassName=AEM00941_harvesting Member=Component R7 Resistor 0R +/- 5% 0603 100 mW
