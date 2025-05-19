@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=HVOUT Pin=J1-1
+Removed Pin From Net: NetName=LVOUT Pin=J1-2
+Removed Pin From Net: NetName=VBATT Pin=J1-3
+Added Pin To Net: NetName=VBATT Pin=J1-1
+Added Pin To Net: NetName=HVOUT Pin=J1-2
+Added Pin To Net: NetName=LVOUT Pin=J1-3
+Added Member To Class: ClassName=AEM00941_harvesting Member=Component J1 22-28-4063

@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=VBUCK Pin=R4-2
+Added Pin To Net: NetName=VBUCK Pin=R5-2
+Added Member To Class: ClassName=AEM00941_harvesting Member=Component C6 Capacitor 100µF +/-20% 6.3V 0805
+Added Member To Class: ClassName=AEM00941_harvesting Member=Component R7 Resistor 0R +/- 5% 0603 100 mW
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
