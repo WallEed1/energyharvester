@@ -1,0 +1,47 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\energy_harvesting_board\Project Outputs for energy_harvesting_board\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/05/25
+Time:       11:33
+Revision:   426a5daa94bb1598ef6a1d2f1433cb003c011bd4
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C3","TAJB106K016RNJ","TopLayer","AVX-TAJ-B-2_L","16.2500mm","45.7500mm","90","Standard Tantalum, 10 uF, +/- 10%, 16 V, -55 to 125 degC, 1210 (3528 Metric), RoHS, Tape and Reel"
+"R14","Resistor 0R 0402 63 mW","TopLayer","RESC1005X40X25ML05T10","25.0000mm","3.7500mm","270","Chip Resistor, 0 Ohm, 0.063 W, -55 to 155 degC, 0402 (1005 Metric)"
+"R13","Resistor 0R 0402 63 mW","TopLayer","RESC1005X40X25ML05T10","31.0000mm","3.7500mm","270","Chip Resistor, 0 Ohm, 0.063 W, -55 to 155 degC, 0402 (1005 Metric)"
+"J1","22-28-4063","BottomLayer","FP-22-28-4063-MFG","19.0000mm","54.7500mm","0","CONN HEADER VERT 6POS 2.54MM"
+"L1","22µH","TopLayer","LPS4018223MRC","26.0000mm","35.5000mm","270","Inductor"
+"J2","S3B-XH-A__LF__SN_","BottomLayer","SHDRRA3W64P0X250_1X3_990X1150X610P","4.7500mm","47.0000mm","90","Connector"
+"R7","Resistor 0R +/- 5% 0603 100 mW","TopLayer","RESC1608X55X25ML10T15","18.7500mm","34.7500mm","180","Chip Resistor, 0 Ohm, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)"
+"BT4","KXOB25-05X3F-TR","TopLayer","SOLAR_KXOB25-14X1F-TR","5.5000mm","16.7500mm","270","Monocrystalline Solar Cell 30.7 mW 690 mV"
+"BT3","KXOB25-05X3F-TR","TopLayer","SOLAR_KXOB25-14X1F-TR","14.5000mm","16.7500mm","270","Monocrystalline Solar Cell 30.7 mW 690 mV"
+"BT2","KXOB25-05X3F-TR","TopLayer","SOLAR_KXOB25-14X1F-TR","23.5000mm","16.7500mm","270","Monocrystalline Solar Cell 30.7 mW 690 mV"
+"BT1","KXOB25-05X3F-TR","TopLayer","SOLAR_KXOB25-14X1F-TR","32.5000mm","16.7500mm","270","Monocrystalline Solar Cell 30.7 mW 690 mV"
+"U1","AEM00940","TopLayer","QFN40P400X400X85_HS-29N","21.5500mm","41.3500mm","180",""
+"TP5","TPAD6R","TopLayer","TP06R","36.2500mm","32.2500mm","90","0.6mm round"
+"TP4","TPAD6R","TopLayer","TP06R","36.2500mm","34.7500mm","90","0.6mm round"
+"TP3","TPAD6R","TopLayer","TP06R","36.2500mm","42.2500mm","90","0.6mm round"
+"TP2","TPAD6R","TopLayer","TP06R","36.2500mm","39.7500mm","90","0.6mm round"
+"TP1","TPAD6R","TopLayer","TP06R","36.2500mm","37.2500mm","90","0.6mm round"
+"R11","Resistor 0R 0402 63 mW","TopLayer","RESC1005X40X25ML05T10","16.5250mm","40.2500mm","180","Chip Resistor, 0 Ohm, 0.063 W, -55 to 155 degC, 0402 (1005 Metric)"
+"R10","Resistor 0R 0402 63 mW","TopLayer","RESC1005X40X25ML05T10","16.5000mm","42.2500mm","180","Chip Resistor, 0 Ohm, 0.063 W, -55 to 155 degC, 0402 (1005 Metric)"
+"R9","Resistor 0R 0402 63 mW","TopLayer","RESC1005X40X25ML05T10","32.3000mm","44.0000mm","180","Chip Resistor, 0 Ohm, 0.063 W, -55 to 155 degC, 0402 (1005 Metric)"
+"R8","Resistor 0R 0402 63 mW","TopLayer","RESC1005X40X25ML05T10","32.3000mm","46.0000mm","180","Chip Resistor, 0 Ohm, 0.063 W, -55 to 155 degC, 0402 (1005 Metric)"
+"R12","Resistor 0R +/- 5% 0603 100 mW","TopLayer","RESC1608X55X25ML10T15","18.7500mm","37.0000mm","0","Chip Resistor, 0 Ohm, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)"
+"R5","Resistor 0R 0402 63 mW","TopLayer","RESC1005X40X25ML05T10","13.5000mm","40.2500mm","180","Chip Resistor, 0 Ohm, 0.063 W, -55 to 155 degC, 0402 (1005 Metric)"
+"R4","Resistor 0R 0402 63 mW","TopLayer","RESC1005X40X25ML05T10","13.5000mm","42.2500mm","180","Chip Resistor, 0 Ohm, 0.063 W, -55 to 155 degC, 0402 (1005 Metric)"
+"R3","Resistor 0R 0402 63 mW","TopLayer","RESC1005X40X25ML05T10","29.7750mm","44.0000mm","180","Chip Resistor, 0 Ohm, 0.063 W, -55 to 155 degC, 0402 (1005 Metric)"
+"R2","Resistor 0R 0402 63 mW","TopLayer","RESC1005X40X25ML05T10","29.7750mm","46.0000mm","180","Chip Resistor, 0 Ohm, 0.063 W, -55 to 155 degC, 0402 (1005 Metric)"
+"R6","Resistor 0R +/- 5% 0603 100 mW","TopLayer","RESC1608X55X25ML10T15","15.7500mm","36.7500mm","90","Chip Resistor, 0 Ohm, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)"
+"R1","100k POT","TopLayer","FP-PV36W-MFG","9.0000mm","35.0000mm","90","TRIMMER 1K OHM 0.5W PC PIN TOP"
+"L2","10µH","TopLayer","MURA-BLM18-F-H1-CHIP-2_V","26.5000mm","41.2500mm","90","Chip Ferrite Bead for General Use, 120 Ohm, 500 mA, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"C6","Capacitor 10µF +/-20% 10V 0603","TopLayer","CAPC0603(1608)100_L","28.0000mm","41.2500mm","90","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
+"C5","Capacitor 10µF +/-20% 10V 0603","TopLayer","CAPC0603(1608)100_L","22.2500mm","46.2500mm","180","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
+"C4","Capacitor 10µF +/-20% 10V 0603","TopLayer","CAPC0603(1608)100_L","19.5000mm","46.2500mm","180","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
+"C2","Capacitor 10µF +/-20% 10V 0603","TopLayer","CAPC0603(1608)100_L","27.2500mm","39.0000mm","0","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
+"C1","Capacitor 10µF +/-20% 10V 0603","TopLayer","CAPC0603(1608)100_L","22.7500mm","34.7500mm","270","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
